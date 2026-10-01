@@ -89,3 +89,18 @@ Inspired by [shadcn/improve](https://github.com/shadcn/improve), but scoped to *
 ## License
 
 MIT © kecyf
+
+## Déploiement : `~/.agents` 
+
+Ce repo est conçu pour être cloné directement à la place du dossier standard des skills inter-agents :
+
+```bash
+git clone git@github.com:kecyf/skills.git ~/.agents
+```
+
+Tous les agents qui lisent `~/.agents/skills/` (pi, Codex, Claude Code,…) chargent automatiquement les 10 skills.
+
+- `skills/` : la collection (créations + imports communautaires)
+- `.skill-lock.json` : provenance GitHub de chaque skill importé (pour réinstallation/sync)
+
+Mis à jour après fusion de la collection locale `~/.agents/skills` (2026-10-01).
