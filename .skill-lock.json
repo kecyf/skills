@@ -6,9 +6,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
-      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "skillFolderHash": "773fb2c7bbf16781670a3520affc4abd0c6151ae",
       "installedAt": "2026-04-15T18:42:03.804Z",
-      "updatedAt": "2026-04-15T18:42:03.804Z"
+      "updatedAt": "2026-07-10T20:54:38Z"
     },
     "improve": {
       "source": "shadcn/improve",
@@ -33,9 +33,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/emilkowalski/skills.git",
       "skillPath": "skills/emil-design-eng/SKILL.md",
-      "skillFolderHash": "175725745e70946d891b93a1694d7c9ebb71b69d",
+      "skillFolderHash": "85e8e2363b713506e1d5b6e07a0eb2da66be1bc3",
       "installedAt": "2026-09-14T23:28:46.793Z",
-      "updatedAt": "2026-09-14T23:28:46.793Z"
+      "updatedAt": "2026-09-15T15:52:10Z"
     },
     "typesafe-ai": {
       "source": "typesafe-ai/skills",
